@@ -1,19 +1,19 @@
-# 👋 Olá! Eu sou Gabriel Lucas
+# Meu nome é Gabriel Lucas
 
-Bem-vindo(a) ao meu perfil! Aqui você encontrará uma coleção dos meus projetos, estudos e colaborações no universo da tecnologia.
-
----
-
-## 🚀 Sobre mim
-
-🎓 Estudante de Engenharia de Software  
-💻 Entusiasta de desenvolvimento web, versionamento e projetos criativos  
-🌱 Atualmente aprendendo: Git, GitHub, HTML/CSS  
-📫 Como me encontrar: gabriel.landrade@sempreceub.com | [LinkedIn](https://www.linkedin.com/in/gabriel-lucas-470929340/)
+ Aqui você encontrará meus projetos, estudos e colaborações no universo da tecnologia.
 
 ---
 
-## 🧰 Tecnologias e Ferramentas
+##  Sobre mim
+
+ Estudante de Engenharia de Software  
+ Entusiasta de desenvolvimento web, versionamento e projetos criativos  
+ Atualmente aprendendo: Git, GitHub, HTML/CSS  
+ Como me encontrar: gabriel.landrade@sempreceub.com | [LinkedIn](https://www.linkedin.com/in/gabriel-lucas-470929340/)
+
+---
+
+## Tecnologias e Ferramentas
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
@@ -23,7 +23,7 @@ Bem-vindo(a) ao meu perfil! Aqui você encontrará uma coleção dos meus projet
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Gabriel Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=bieldiesil&show_icons=true&theme=default&hide_rank=true)
 
